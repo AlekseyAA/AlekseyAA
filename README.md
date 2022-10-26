@@ -29,3 +29,5 @@ SQL, PostgreSQL, Python, NumPy, Pandas, Matplotlib, Scikit Learn, SciPy, PySpark
 - Математика (Python, NumPy, Matplotlib, SciPy, SymPy): [Итоговый работа "Математика для анализа данных"](https://pages.github.com/)
 
 - Big Data (Python, Pandas, Scikit Learn, PySpark): [Итоговая работа "Big Data c нуля"](https://pages.github.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyAA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
