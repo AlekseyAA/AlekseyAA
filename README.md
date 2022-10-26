@@ -1,5 +1,4 @@
-### Привет! 👋
-### test
+### Привет!
 <!--
 **AlekseyAA/AlekseyAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Я Агапитов Алексей, начинающий Data Scientist.
+Я Алексей Агапитов, начинающий Data Scientist.
+
+### Мой стек на данный момент
+
+SQL, PostgreSQL, Python, NumPy, Pandas, Matplotlib, Scikit Learn, SciPy, PySpark
+
+### Вот примеры моих учебных проектов
+
+- SQL (PostgreSQL): [Итоговая работа по курсу SQL и получение данных](https://pages.github.com/)
+
+- Основы машинного обучения (Python, NumPy, Pandas, Scikit Learn, Matplotlib): [Репозиторий с некоторыми домашними работами](https://pages.github.com/)
+
+- Математика (Python, NumPy, Matplotlib, SciPy, SymPy): [Итоговый работа "Математика для анализа данных"](https://pages.github.com/)
+
+- Big Data (Python, Pandas, Scikit Learn, PySpark): [Итоговая работа "Big Data c нуля"](https://pages.github.com/)
